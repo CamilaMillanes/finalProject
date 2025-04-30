@@ -1,0 +1,3 @@
+# Project Title: Foodies World Wide
+This website opens a new door for people who are wanting to gain a little more knowledge about food and their backround. It includes showing many recipes, reviews, restaurants and cultures throughout the world.  
+The recipes page will show many recipes on different food around the world. Reviews will be on everything wether its a restaurant or recipe people have tried. The restaurant page will show various restaurants on many different foods. Lastly, the cultures page will give more backround information on the cultures behind the certain foods.
