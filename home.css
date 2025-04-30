@@ -1,0 +1,41 @@
+
+    body{
+       background: linear-gradient(tan, salmon);
+      
+    }
+
+   header{
+    background-color: bisque;
+   }
+
+    img{
+        width: 20%;
+        height: 200px;
+        outline-width: 1000px;
+        outline: auto aqua;
+    }
+
+    
+    .restaurants{
+        position: relative;
+        left: 900px;
+        top: 0%;
+        bottom: 540px;
+        
+    }
+
+    .recipes{
+        position: relative;
+        left: 300px;
+    }
+    .reviews{
+        position: relative;
+        left: 300px;
+        top: 150px;
+    }
+
+    .cultures{
+        position: relative;
+        left: 900px;
+        bottom: 400px;
+    }

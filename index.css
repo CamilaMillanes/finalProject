@@ -1,0 +1,72 @@
+
+    body{
+       background: linear-gradient(tan, salmon);
+       font-family: 'Times New Roman', Times, serif;
+      
+    }
+
+   header{
+    background-color: bisque;
+    box-shadow: 1px 1px 1px 1px;
+    text-align: center;
+    text-shadow: 2px 2px 4px #225058;;
+    font-size: 25px;
+    position: relative;
+   bottom: 30px;
+   }
+   body{
+    background-color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* from styles */
+form{
+    background-color: beige;
+    max-width: 200px;
+    /* add 20 px margin top and bottom. Left and right will evenly spaced margings, as determined by the browser;
+    the effect is that our form will be centered on our page */
+    margin: 20px auto;
+    padding: 20px;
+    /* round corners */
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+    text-align: center;
+    position: relative;
+    bottom: 1100px;
+    right: 620px;
+}
+
+
+
+   
+    img{
+        width: 23%;
+        height: 245px;
+        outline-width: 1000px;
+        outline: auto salmon;
+        box-shadow: 5px 5px 5px 5px;
+    }
+
+    
+    .restaurants{
+        position: relative;
+        left: 900px;
+        bottom: 650px;
+    }
+
+    .recipes{
+        position: relative;
+        left: 300px;
+        bottom: 25px;
+    }
+    .reviews{
+        position: relative;
+        left: 300px;
+        bottom: 10px;
+    }
+
+    .cultures{
+        position: relative;
+        left: 900px;
+        bottom: 645px;
+    }
